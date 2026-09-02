@@ -1,0 +1,5 @@
+.env
+node_modules/
+web/dist/
+bin/
+*.exe
